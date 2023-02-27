@@ -1,0 +1,46 @@
+body {
+    background: #222;
+    color: white;
+}
+
+/* commento
+e non viene interpreato */
+
+h1 {
+    color: aquamarine;
+}
+
+h2 {
+    color: salmon;
+}
+
+#sezioneCustom {
+    color: blueviolet;
+}
+
+.secondaclasse {
+    color: crimson;
+}
+
+.paragrafo {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color:cadetblue;
+    text-align: center;
+}
+
+header {
+    background-color: #FF000066;
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolor-4116932__480.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+    border-left: 3px solid white;
+}
+
+.larghezzaCustom {
+    border: 1px solid red;
+}
